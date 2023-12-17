@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "410965406484",
-    "firebase_url": "https://weather-a9384-default-rtdb.firebaseio.com",
-    "project_id": "weather-a9384",
-    "storage_bucket": "weather-a9384.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:410965406484:android:0a864870b25ce0cdf78801",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.weather"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCjTikmFfyvwHNL10gSx70zMpy59JM8rwI"
+          "current_key": ""
         }
       ],
       "services": {
